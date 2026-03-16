@@ -177,7 +177,9 @@ type                           = PLA
 
 | App | Platform | Link |
 |-----|----------|------|
-| QIDI RFID Tag Writer | Android | [isnlab/qidi-rfid](https://github.com/isnlab/qidi-rfid) |
+| Box RFID (modified Qidi RFID) | Android | [BOX Rfid](https://www.rustore.ru/catalog/app/com.isnlab.qidirfid) |
+| Qidi RFID | Android | [Qidi RFID](https://play.google.com/store/apps/details?id=dngsoftware.qidirfid&hl=en) |
+| BoxRFID is a desktop app (Electron) to read and write NFC/RFID tags for QIDI Box multi color system. | Windows | [TinkerBarn/BoxRFID](https://github.com/TinkerBarn/BoxRFID) |
 | qidi-box-rfid-manager | Android (React Native) | [n0cloud/qidi-box-rfid-manager](https://github.com/n0cloud/qidi-box-rfid-manager) |
 | Qidi RFID App | Desktop (Rust/Tauri) | [LexyGuru/Qidi_RFID_App](https://github.com/LexyGuru/Qidi_RFID_App) |
 | qidi-filament-nfc-flipper | Flipper Zero | [alexk42/qidi-filament-nfc-flipper](https://github.com/alexk42/qidi-filament-nfc-flipper) |
